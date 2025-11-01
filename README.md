@@ -25,7 +25,7 @@
 [![Gadget Builder](https://github-readme-stats.vercel.app/api/pin/?username=Fahim-Hassan-Ovi&repo=gadget-builder-client&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Fahim-Hassan-Ovi/gadget-builder-client)
 [![Dragon News](https://github-readme-stats.vercel.app/api/pin/?username=Fahim-Hassan-Ovi&repo=dragon-news&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Fahim-Hassan-Ovi/dragon-news)
 [![Coupon Digger](https://github-readme-stats.vercel.app/api/pin/?username=Fahim-Hassan-Ovi&repo=coupon-digger&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Fahim-Hassan-Ovi/coupon-digger)
-[!Bookers Library Management App](https://github-readme-stats.vercel.app/api/pin/?username=Fahim-Hassan-Ovi&repo=bookers-library-management-app-client&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Fahim-Hassan-Ovi/bookers-library-management-app-client)
+[![Bookers Library Management App](https://github-readme-stats.vercel.app/api/pin/?username=Fahim-Hassan-Ovi&repo=bookers-library-management-app-client&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Fahim-Hassan-Ovi/bookers-library-management-app-client)
 
 <p align="left">
   <a href="https://github.com/Fahim-Hassan-Ovi?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>

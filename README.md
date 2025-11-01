@@ -55,4 +55,5 @@
 
 <br/>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Fahim-Hassan-Ovi&theme=dark&hide_border=true)<br/>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fahim-hassan-ovi&theme=dark&hide_border=true" alt="fahim-hassan-ovi" /></p>
+
